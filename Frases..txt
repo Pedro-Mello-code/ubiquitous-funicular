@@ -3,4 +3,3 @@
 3. Terceira Frase
 4. Quarta Frase
 5. Quinta Frase
-6. Sexta Frase
